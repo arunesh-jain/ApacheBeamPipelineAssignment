@@ -1,0 +1,209 @@
+Country,State,Price
+Belgium,Brussels (Bruxelles),9600.0
+United States,FL,51600.0
+United States,VI,3600.0
+Denmark,Vestsjalland,1200.0
+Switzerland,Basel-Country,4800.0
+United States,WA,24000.0
+Sweden,Vasterbotten,1200.0
+Denmark,Storstrom,2400.0
+Japan,Tokyo,2400.0
+Hong Kong,,1200.0
+Germany,Hamburg,1200.0
+United States,CT,10800.0
+Germany,Hessen,4800.0
+United States,CO,27400.0
+Cayman Isls,,1200.0
+Australia,Tasmania,3600.0
+France,Lorraine,1200.0
+Brazil,Minas Gerais,1200.0
+Hungary,Bacs-Kiskun,1200.0
+Poland,Mazowieckie,1200.0
+Ukraine,Kiev,1200.0
+United States,UT,12300.0
+Belgium,Antwerpen,1200.0
+United Kingdom,Northern Ireland,3600.0
+Switzerland,Neuchatel,1200.0
+United States,TX,55500.0
+United States,TN,19500.0
+France,Franche-Comte,2400.0
+Finland,Ita-Suomen Laani,1200.0
+Sweden,Uppsala,1200.0
+Ireland,Limerick,2400.0
+Germany,Saarland,1200.0
+United States,CA,113350.0
+United States,DE,1200.0
+Germany,Rhineland-Palatinate,3600.0
+Canada,Northwest Territories,1200.0
+Philippines,General Santos,1200.0
+Denmark,Kobenhavn,8400.0
+United States,AK,8400.0
+Switzerland,Ticino,4800.0
+Belgium,Hainaut,1200.0
+Switzerland,Basel-Town,1200.0
+Canada,British Columbia,28800.0
+Canada,Alberta,26400.0
+United States,AL,3600.0
+Switzerland,St Gallen,3600.0
+France,Alsace,1200.0
+Spain,Pais Vasco,1200.0
+Australia,South Australia,1200.0
+United States,AR,9900.0
+United States,DC,6000.0
+Canada,Quebec,9600.0
+Brazil,Sao Paulo,7500.0
+Romania,Bucuresti,1200.0
+Italy,Veneto,4800.0
+Czech Republic,Prague,1200.0
+Czech Republic,Central Bohemia,3600.0
+Iceland,,1200.0
+Israel,Tel Aviv,1200.0
+Malaysia,Kuala Lumpur,1200.0
+Germany,Baden-Wurttemberg,6000.0
+Thailand,Krung Thep,3600.0
+France,Upper Normandy,1200.0
+Ireland,Wicklow,2400.0
+Canada,Ontario,46800.0
+Switzerland,Zug,4800.0
+Germany,Nordrhein-Westfalen,4800.0
+United States,SC,7200.0
+Italy,Lazio,1200.0
+Germany,Bayern,9600.0
+United States,RI,3600.0
+Bahrain,Al Manamah,1200.0
+Germany,Saxony,1200.0
+Switzerland,Vaud,19200.0
+Netherlands,Groningen,2400.0
+Spain,Madrid,6000.0
+Switzerland,Schwyz,1200.0
+Monaco,,2400.0
+South Africa,Gauteng,3600.0
+China,Guangdong,1200.0
+United States,PA,20400.0
+Thailand,Phuket,1200.0
+Hungary,Pest,1200.0
+Spain,Murcia,2400.0
+Hungary,Budapest,1200.0
+Turkey,Istanbul,6000.0
+Argentina,Buenos Aires,1200.0
+Ireland,Tipperary,2400.0
+United Kingdom,Scotland,15600.0
+Guatemala,Guatemala,1200.0
+Jersey,,1200.0
+The Bahamas,Freeport,1200.0
+New Zealand,Auckland,4800.0
+Switzerland,Aargau,4800.0
+Finland,Etela-Suomen Laani,1200.0
+United States,MT,2400.0
+Australia,Queensland,14400.0
+Ireland,Kerry,1200.0
+United States,MA,18000.0
+United States,OH,8400.0
+United States,OR,2400.0
+United States,WI,6000.0
+Italy,Lombardy,7200.0
+Dominican Republic,Distrito Nacional,1200.0
+Norway,Oslo,9600.0
+France,Rhone-Alpes,13200.0
+Ireland,Louth,1200.0
+Spain,Catalonia,6000.0
+Canada,Saskatchewan,7200.0
+United States,AZ,16850.0
+United States,MN,19200.0
+Norway,Vestfold,2400.0
+United States,NC,8400.0
+Turkey,Izmir,1200.0
+France,Ile-de-France,16800.0
+United States,ME,2400.0
+United States,NJ,22800.0
+United States,NH,1200.0
+France,Pays de la Loire,1200.0
+United States,NE,1200.0
+Austria,Lower Austria,2400.0
+United States,KS,4800.0
+United States,MD,22800.0
+United States,VT,7200.0
+Italy,Tuscany,4800.0
+United Arab Emirates,Abu Zaby,1200.0
+United States,NM,1200.0
+United States,NY,61200.0
+United States,NV,6000.0
+South Korea,Soul-t'ukpyolsi,1200.0
+United Arab Emirates,Dubayy,10800.0
+Ireland,Westmeath,1200.0
+United States,LA,8700.0
+Denmark,Frederiksborg,3600.0
+Australia,Victoria,13200.0
+Costa Rica,Heredia,1200.0
+Sweden,Stockholm,13200.0
+Mauritius,Black River,3600.0
+India,Haryana,1200.0
+United States,IN,4800.0
+Norway,Buskerud,1200.0
+South Africa,KwaZulu-Natal,8700.0
+Netherlands,Noord-Holland,10800.0
+United States,MI,16800.0
+United States,MS,11100.0
+Bermuda,Hamilton,1200.0
+Denmark,Arhus,1200.0
+United States,KY,2400.0
+United States,IA,3600.0
+Netherlands,Zuid-Holland,23100.0
+Brazil,Rio Grande do Sul,1200.0
+Germany,Lower Saxony,6000.0
+France,Brittany,8700.0
+Sweden,Ostergotland,3600.0
+Denmark,Staden Kobenhavn,1200.0
+New Zealand,Taranaki,2400.0
+Switzerland,Geneve,10800.0
+Ireland,Waterford,2400.0
+Latvia,Riga,1200.0
+Poland,Pomorskie,1200.0
+Norway,Hordaland,2400.0
+Greece,Attiki,1200.0
+Norway,Sogn og Fjordane,1200.0
+Switzerland,Zurich,16800.0
+Bulgaria,Stara Zagora,1200.0
+Netherlands,Gelderland,3600.0
+Ireland,Dublin,28800.0
+Kuwait,,1200.0
+United States,ID,2400.0
+Malta,,4800.0
+United States,Virginia,1200.0
+United States,GA,29400.0
+India,Andhra Pradesh,1200.0
+Norway,Rogaland,4800.0
+Austria,Tyrol,3600.0
+United States,MO,1200.0
+Brazil,Ceara,1200.0
+Ireland,Meath,11100.0
+Ireland,Cork,14400.0
+United States,HI,13200.0
+Sweden,Skane,3600.0
+Italy,Sicilia,16200.0
+The Bahamas,New Providence,1200.0
+Moldova,Chisinau,1200.0
+Switzerland,Bern,3600.0
+Australia,Western Australia,12000.0
+United States,VA,40400.0
+Russia,Moscow City,3600.0
+United Kingdom,Wales,4800.0
+Netherlands,Noord-Brabant,1200.0
+Philippines,Bohol,1200.0
+Austria,Vienna,4800.0
+Netherlands,Utrecht,3600.0
+Luxembourg,Luxembourg,1200.0
+Germany,Berlin,1200.0
+Australia,New South Wales,20400.0
+Canada,Yukon Territory,3600.0
+Czech Republic,East Bohemia,1200.0
+France,Provence-Alpes-Cote d'Azur,7200.0
+Spain,Andalucia,1200.0
+Brazil,Santa Catarina,1200.0
+Italy,Sardinia,3600.0
+Germany,Thuringia,2400.0
+United States,IL,24000.0
+Ireland,Kilkenny,1200.0
+United Kingdom,England,120000.0
+Ireland,Mayo,1200.0
+Canada,Manitoba,1200.0
